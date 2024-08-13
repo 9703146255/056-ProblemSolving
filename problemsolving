@@ -1,0 +1,109 @@
+1. Data Structures
+===================
+Arrays and Strings
+Basic operations (insertion, deletion, traversal).
+Problems like two-pointer technique, sliding window, and string manipulation.
+Linked Lists
+Singly, Doubly, Circular linked lists.
+Operations like reversal, merging, finding loops, and detecting intersections.
+Stacks and Queues
+Stack operations (push, pop, peek).
+Queue operations (enqueue, dequeue).
+Problems involving stack/queue (e.g., balancing parentheses, next greater element).
+Hashing
+Hash tables, hash maps, collision resolution techniques.
+Common problems (e.g., anagrams, subarray sum, two-sum).
+Trees
+Binary Trees, Binary Search Trees, AVL Trees, and Heaps.
+Tree traversal techniques (inorder, preorder, postorder, level order).
+Problems like lowest common ancestor, subtree checks, diameter of a tree.
+Graphs
+Representations (adjacency matrix, list), BFS, DFS.
+Shortest path algorithms (Dijkstra, Bellman-Ford), topological sort.
+Problems like cycle detection, connected components, and graph coloring.
+Heaps
+Min-Heap, Max-Heap, Priority Queue.
+Heap operations (insertion, deletion, heapify).
+Problems like finding the k-th largest/smallest element.
+
+
+2. Algorithms
+=================
+Sorting and Searching
+Sorting algorithms (quick sort, merge sort, heap sort).
+Binary search and its applications.
+Custom sorting (e.g., sorting by frequency).
+Recursion and Backtracking
+Basic recursion problems (factorial, Fibonacci).
+Backtracking problems (N-Queens, Sudoku solver, subset generation).
+Optimization using memoization (Dynamic Programming).
+Dynamic Programming
+Understanding of overlapping subproblems, optimal substructure.
+Problems like knapsack, longest common subsequence, matrix chain multiplication, coin change.
+Greedy Algorithms
+Problem-solving with a greedy approach (e.g., activity selection, Huffman coding).
+Understand when greedy algorithms work and their limitations.
+Divide and Conquer
+Master theorem, merge sort, quick sort.
+Problems like finding the closest pair of points.
+Bit Manipulation
+Basic operations (AND, OR, XOR, NOT, shifts).
+Problems like finding the single non-repeated number, counting bits, power of two.
+Mathematical Algorithms
+Prime numbers (Sieve of Eratosthenes), GCD, LCM.
+Modular arithmetic, combinatorics, probability basics.
+Problems involving number theory, combinatorial mathematics.
+
+3. Advanced Problem-Solving Topics
+=====================================
+String Algorithms
+String matching algorithms (KMP, Rabin-Karp).
+Suffix arrays, tries, and string compression.
+Advanced Graph Algorithms
+Minimum Spanning Tree (Kruskal, Prim).
+Network flow problems (Ford-Fulkerson).
+Advanced shortest path algorithms (Floyd-Warshall).
+Segment Trees and Binary Indexed Trees
+Range queries, lazy propagation.
+Applications in range sum and range minimum queries.
+Advanced Dynamic Programming
+DP on trees and graphs.
+Problems like palindromic substrings, longest increasing subsequence.
+Game Theory and Miscellaneous Topics
+Grundy numbers, minimax algorithm.
+Miscellaneous topics like Bloom filters, Trie-based problems.
+
+=====================================
+4. Competitive Programming Practices
+=====================================
+Coding Contests and Platforms
+Regular participation in coding contests (e.g., Codeforces, LeetCode, CodeChef, HackerRank).
+Solving problems of varying difficulty levels.
+Optimization Techniques
+Time complexity analysis and optimization.
+Space complexity optimization (in-place algorithms, memory-efficient data structures).
+Problem-Solving Techniques
+Breaking down complex problems into subproblems.
+Pattern recognition and reuse of solutions.
+Edge cases handling and input validation.
+
+=====================================
+5. Mock Interviews and Practice
+=====================================
+Mock Problem-Solving Sessions
+Time-bound problem-solving sessions.
+Immediate feedback and review.
+Top Interview Problems
+Practice with frequently asked interview problems (e.g., top 100 problems on LeetCode).
+Discussion and Explanation
+Explaining solutions and approach to others.
+Practice articulating thought processes clearly and concisely.
+
+=====================================
+6. Real-world Application
+=====================================
+Understanding Practical Use Cases
+Applying algorithms and data structures in real-world scenarios.
+Analyzing the trade-offs of different approaches in practical applications.
+Optimization in Production Systems
+Understanding how to optimize algorithms for production use (e.g., minimizing latency, improving throughput).
